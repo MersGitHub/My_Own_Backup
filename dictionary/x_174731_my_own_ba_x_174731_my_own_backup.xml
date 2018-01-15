@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="My own backup" max_length="40" name="x_174731_my_own_ba_x_174731_my_own_backup" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Value my backup" max_length="40" name="value_my_backup" type="string"/>
+    </element>
+</database>

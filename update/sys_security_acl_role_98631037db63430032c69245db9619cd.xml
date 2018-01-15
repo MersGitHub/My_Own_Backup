@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Admin</sys_created_by>
+        <sys_created_on>2018-01-15 18:55:29</sys_created_on>
+        <sys_id>98631037db63430032c69245db9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_174731_my_own_ba_x_174731_my_own_backup.x_174731_my_own_ba.my_own_backup_user</sys_name>
+        <sys_package display_value="My own backup" source="x_174731_my_own_ba">ebe194f3db63430032c69245db96193a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My own backup">ebe194f3db63430032c69245db96193a</sys_scope>
+        <sys_security_acl display_value="x_174731_my_own_ba_x_174731_my_own_backup">90631037db63430032c69245db9619cb</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_98631037db63430032c69245db9619cd</sys_update_name>
+        <sys_updated_by>Admin</sys_updated_by>
+        <sys_updated_on>2018-01-15 18:55:29</sys_updated_on>
+        <sys_user_role display_value="x_174731_my_own_ba.my_own_backup_user" name="x_174731_my_own_ba.my_own_backup_user">00635cf3db63430032c69245db961956</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
